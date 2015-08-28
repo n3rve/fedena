@@ -174,3 +174,4 @@ echo "Login with -- u: admin & p: admin123."
 sleep 2;
 echo -e "Considering Fedena Pro? Send a mail: n3rve@n3rve.com"
 
+cd ../ && rm -- "$0"
