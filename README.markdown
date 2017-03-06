@@ -22,3 +22,7 @@ Visit  http://projectfedena.org/install for detailed installation instruction.
 #Community Support:
 
 Visit www.projectfedena.org for community support.
+
+#Updates
+
+This version introduces fixes to enable Project Fedena run properly on Ubuntu 16.04 & MySQL 5.7
